@@ -1,0 +1,8 @@
+Django==1.7c2
+django-bootstrap3==4.11.0
+django-crispy-forms==1.4.0
+django-debug-toolbar==1.2.1
+django-extensions==1.3.10
+six==1.7.3
+sqlparse==0.1.11
+wsgiref==0.1.2
